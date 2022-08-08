@@ -1,31 +1,43 @@
-# curriculum-databases-projects-template
+# vet_clinic_database
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> This is a databse creation project This project has PostgreSQL quesries for vet clinic table and schema.
 
 
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- [schema.sql](./schema.sql) to create all tables.
+- [data.sql](./data.sql) to populate tables with sample data.
+- [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
+
+## Built With
+- Github
+- PostgreSQL
+
+<hr>
+
+ To get a local copy up and running follow these simple example steps.
 
 
-## Authors
+- Clone this repository
 
-👤 **Author1**
+```
+git clone https://github.com/abdulhamiid/sql-database.git
+```
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- cd into the project directory
+```terminal
+cd sql-database
+```
 
-👤 **Author2**
+## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Abdulhamid**
+
+- GitHub: [abdulhamiid](https://github.com/abdulhamiid)
+- Twitter: [@abdulhamid_adio](https://twitter.com/abdulhamid_adio)
+- LinkedIn: [Adio Abdulhamid](https://linkedin.com/)
 
 ## 🤝 Contributing
 
@@ -39,9 +51,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to Microverse.
 
 ## 📝 License
 
