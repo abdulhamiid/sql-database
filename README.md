@@ -23,7 +23,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Clone this repository
 
 ```
-git clone https://github.com/abdulhamiid/leaderboard.git
+git clone https://github.com/abdulhamiid/sql-database.git
 ```
 
 - cd into the project directory
@@ -43,22 +43,6 @@ cd sql-database
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Thanks to microverse
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
@@ -67,9 +51,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to Microverse.
 
 ## 📝 License
 
