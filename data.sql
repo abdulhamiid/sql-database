@@ -12,5 +12,5 @@ INSERT INTO animals VALUES (5, 'Charmander', '2020-02-08', 0, FALSE, -11),
 (7, 'Squirtle', '1993-6-02', 3, FALSE, -12.13),
 (8, 'Angemon', '2005-06-12', 1, TRUE, -45),
 (9, 'Boarmon', '2005-06-07', 7, TRUE, 20.4);
-(10, 'Blossom', '1998-10-13', 3, TRUE, -17),
+(10, 'Blossom', '1998-10-13', 3, TRUE, 17),
 (11, 'Ditto', '2020-50-14', 4, TRUE, 22);
