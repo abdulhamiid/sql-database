@@ -61,4 +61,4 @@ CONSTRAINT fk_vets FOREIGN KEY(vets_id) REFERENCES vets(id) ON DELETE CASCADE
 );
 
 ALTER TABLE visits
-ADD date_of_visit INT NOT NULL;
+ADD date_of_visit date NOT NULL;
