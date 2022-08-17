@@ -62,3 +62,8 @@ CONSTRAINT fk_vets FOREIGN KEY(vets_id) REFERENCES vets(id) ON DELETE CASCADE
 
 ALTER TABLE visits
 ADD date_of_visit date NOT NULL;
+
+--  PERFORMANCE AUDIT
+
+-- Add an email column to your owners table
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
